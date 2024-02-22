@@ -1,7 +1,7 @@
 # reactNativeExample
-To run;
+To run:
 ```
 cd exampleApp
-yarn expo start
+npx expo start
 ```
 Can edit `App.js`
